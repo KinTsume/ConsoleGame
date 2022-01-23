@@ -124,5 +124,28 @@ namespace roberto
             }
             return stringToReturn;
         }
+
+        public float[] GetVertices(int VerticeIndex)
+        {
+            float[] vertex = new float[2];
+
+            switch(VerticeIndex)
+            {   
+                //Up - left vertex
+                case 0:
+                    vertex = new float[2]{PositionX - ShapeWidth / 2, PositionY + ShapeHeight / 2};
+                    break;
+                
+                //down - right vertex
+                case 1:
+                    vertex = new float[2]{PositionX + ShapeWidth / 2, PositionY - ShapeHeight / 2};
+                    break;
+
+                default:
+                    break;
+            }
+
+            return vertex;
+        }
     }
 }

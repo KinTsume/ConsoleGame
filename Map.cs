@@ -8,5 +8,20 @@ namespace roberto
         {
             SEntityList = new List<StaticEntity>();
         }
+
+        public List<StaticEntity> GetEntityList()
+        {
+            return SEntityList;
+        }
+
+        public void AddToList(StaticEntity entity)
+        {
+            SEntityList.Add(entity);
+        }
+
+        public void RemoveFromList()
+        {
+
+        }
     }
 }
