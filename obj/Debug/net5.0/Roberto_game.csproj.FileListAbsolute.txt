@@ -1,0 +1,16 @@
+C:\Users\Usuário do Windows\Documents\Roberto\Roberto_game\bin\Debug\net5.0\Roberto_game.exe
+C:\Users\Usuário do Windows\Documents\Roberto\Roberto_game\bin\Debug\net5.0\Roberto_game.deps.json
+C:\Users\Usuário do Windows\Documents\Roberto\Roberto_game\bin\Debug\net5.0\Roberto_game.runtimeconfig.json
+C:\Users\Usuário do Windows\Documents\Roberto\Roberto_game\bin\Debug\net5.0\Roberto_game.runtimeconfig.dev.json
+C:\Users\Usuário do Windows\Documents\Roberto\Roberto_game\bin\Debug\net5.0\Roberto_game.dll
+C:\Users\Usuário do Windows\Documents\Roberto\Roberto_game\bin\Debug\net5.0\ref\Roberto_game.dll
+C:\Users\Usuário do Windows\Documents\Roberto\Roberto_game\bin\Debug\net5.0\Roberto_game.pdb
+C:\Users\Usuário do Windows\Documents\Roberto\Roberto_game\obj\Debug\net5.0\Roberto_game.csproj.AssemblyReference.cache
+C:\Users\Usuário do Windows\Documents\Roberto\Roberto_game\obj\Debug\net5.0\Roberto_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário do Windows\Documents\Roberto\Roberto_game\obj\Debug\net5.0\Roberto_game.AssemblyInfoInputs.cache
+C:\Users\Usuário do Windows\Documents\Roberto\Roberto_game\obj\Debug\net5.0\Roberto_game.AssemblyInfo.cs
+C:\Users\Usuário do Windows\Documents\Roberto\Roberto_game\obj\Debug\net5.0\Roberto_game.csproj.CoreCompileInputs.cache
+C:\Users\Usuário do Windows\Documents\Roberto\Roberto_game\obj\Debug\net5.0\Roberto_game.dll
+C:\Users\Usuário do Windows\Documents\Roberto\Roberto_game\obj\Debug\net5.0\ref\Roberto_game.dll
+C:\Users\Usuário do Windows\Documents\Roberto\Roberto_game\obj\Debug\net5.0\Roberto_game.pdb
+C:\Users\Usuário do Windows\Documents\Roberto\Roberto_game\obj\Debug\net5.0\Roberto_game.genruntimeconfig.cache

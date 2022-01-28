@@ -1,3 +1,5 @@
+﻿using System;
+
 namespace roberto
 {
     public class StaticEntity : Entity
@@ -5,7 +7,7 @@ namespace roberto
 
         public StaticEntity(float[] position, ShapeEnum shape, int[] shapeDimensions)
         {
-            if((position.Length != 2) || (shapeDimensions.Length != 2))
+            if ((position.Length != 2) || (shapeDimensions.Length != 2))
             {
                 throw new ArgumentException("Array length must be 2");
             }

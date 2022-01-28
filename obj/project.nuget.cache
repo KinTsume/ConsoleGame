@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pxL+rY5WNnuuqZaZqjipdrMUk+kj5lbtN5WuF8zOJ9mXPz2A7zmtjkf7EvmiHXXgy5zmnZsz62bzq1MiKdVA1w==",
+  "dgSpecHash": "FGyITyW2fL94SDN7mkRYRwCDsJaoS4O8kxzae6V7qt8Skft1MX48/99y5XUXDsis3V+CvV1h5dxfCmkSLVVOZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuário do Windows\\Desktop\\Roberto\\roberto\\roberto.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Usuário do Windows\\Documents\\Roberto\\Roberto_game\\roberto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuário do Windows\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
